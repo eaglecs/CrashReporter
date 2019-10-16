@@ -1,5 +1,8 @@
 package com.balsikandar.crashreporter;
 
-public class CrashReporter {
+import android.content.Context;
 
+public class CrashReporter {
+    public static void initialize(Context context) {
+    }
 }
